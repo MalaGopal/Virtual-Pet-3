@@ -1,2 +1,1 @@
-# Virtual-Pet-3
-Bedroom,washroom and garden backgrounds added for different times of the day.
+# d0dceb6947ca210c2baf69acf70d5509
